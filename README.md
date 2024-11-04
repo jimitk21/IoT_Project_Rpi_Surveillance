@@ -6,6 +6,11 @@
 
 The following image denoted the interfacing of the PIR sensor with the raspberry pi 4 B,
 
-Orange Wire: 5V 
+Orange Wire: 5V
+
 Blue Wire: Gnd
+
 Red Wire: GPIO4
+
+
+Note: rotate the dial of the PIR sensor to their extreme left position
